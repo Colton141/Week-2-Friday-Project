@@ -7,7 +7,23 @@ h2 {
   font-size: 30px;
 }
 
-.result1 {
+body{
+  font-family: sans-serif;
+}
+.form-group{
+  margin-right: 70px;
+  margin-left: 70px;
+}
+#enter{
+  margin-top: 15px;
+}
+.answer{
+ margin-left: 75px;
+ margin-top: 55px;
+
+}
+
+/* .result1 {
   display: none;
 }
 .result2 {
@@ -18,4 +34,4 @@ h2 {
 }
 .result {
   display: none;
-}
+} */
