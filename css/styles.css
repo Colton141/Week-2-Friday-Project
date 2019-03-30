@@ -30,23 +30,19 @@ body{
 
 }
 
-#about {
+#about-tracks {
   margin-left: 120px;
-  margin-top: 50px; 
+  margin-top: 50px;
+}
+.track1 {
   display: none;
 }
-.result1{
+.track2 {
   display: none;
 }
-.result2{
+.track3 {
   display: none;
 }
-.result3{
-  display: none;
-}
-.result3 {
-  display: none;
-}
-.result {
+.track {
   display: none;
 }
