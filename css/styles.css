@@ -1,4 +1,5 @@
 #header {
+  background-color: #808080;
   line-height: 20px;
   height: 150px;
 }
@@ -8,6 +9,7 @@ h2 {
 }
 
 body{
+  background-color: #B0C4DE;
   font-family: sans-serif;
 }
 .form-group{
@@ -22,11 +24,24 @@ body{
  margin-top: 55px;
 
 }
+.line{
+  background-color: grey;
+  height: 2px;
 
-/* .result1 {
+}
+
+#about {
+  margin-left: 120px;
+  margin-top: 50px; 
   display: none;
 }
-.result2 {
+.result1{
+  display: none;
+}
+.result2{
+  display: none;
+}
+.result3{
   display: none;
 }
 .result3 {
@@ -34,4 +49,4 @@ body{
 }
 .result {
   display: none;
-} */
+}
