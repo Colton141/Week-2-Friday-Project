@@ -1,7 +1,11 @@
-body{
-  line-height: 50px;
+#header {
+  line-height: 20px;
+  height: 150px;
 }
 
+h2 {
+  font-size: 30px;
+}
 
 .result1 {
   display: none;
