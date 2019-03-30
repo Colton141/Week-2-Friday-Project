@@ -1,6 +1,6 @@
 # Track Suggester Survey
 
-#### A quick survey to figure out what code track should take at Epicodus
+#### A quick survey to figure out what code track you should take at Epicodus
 
 #### By Colton Lacey
 
