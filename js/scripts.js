@@ -6,6 +6,11 @@ $(document).ready(function(){
     var question4 = $("#question4").val();
     var question5 = $("#question5").val();
 
+      $(".track").hide();
+      $(".track1").hide();
+      $(".track2").hide();
+      $(".track3").hide();
+      $("#about-track").hide();
     if (question1 ==="1" && question2 === "3"){
       $(".track").show();
       $(".track2").show();

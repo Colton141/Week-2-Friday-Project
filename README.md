@@ -10,9 +10,9 @@ This is a 5 question survey that will suggestion the user a code track it thinks
 
 ## Setup/Installation Requirements
 
-Clone  this repo.
-Open repo. files on your computer
-run index.html in local browser
+* Clone  this repo.
+* Open repo. files on your computer
+* run index.html in local browser
 
 
 ## Technologies Used
